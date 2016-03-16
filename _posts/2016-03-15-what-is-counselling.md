@@ -1,23 +1,23 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 starred: false
 keywords: []
 description: What is Counselling?
-datePublished: '2016-03-15T04:03:19.482Z'
-dateModified: '2016-03-15T04:03:10.426Z'
-title: ''
+datePublished: '2016-03-16T02:33:44.429Z'
+dateModified: '2016-03-16T02:33:22.756Z'
+title: Benefits of Counselling
 author: []
+sourcePath: _posts/2016-03-15-what-is-counselling.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-15-what-is-counselling.md
-published: true
 url: what-is-counselling/index.html
 _type: Article
 
