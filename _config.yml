@@ -1,4 +1,4 @@
-name: edmontonpsychologist
+name: 'Siân Roberts, M.Sc. Registered Psychologist'
 favicon: null
 layout_spectrum: 0.533121608896181
 typography_spectrum: 0.20062274439260364
@@ -22,8 +22,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.3714069302659482
-  lightness: 0.3778270792681724
-  saturation: 0.2486272039823234
-  rhythmicContrast: 0.8435125215910375
+  brandStrength: 1
+  lightness: 1
+  saturation: 0.1875
+  rhythmicContrast: 0.25
 purpose: []
