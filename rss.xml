@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[edmontonpsychologist]]></title>
-        <description><![CDATA[edmontonpsychologist]]></description>
+        <title><![CDATA[Edmonton Psychologist]]></title>
+        <description><![CDATA[Edmonton Psychologist]]></description>
         <link>https://thegrid.ai/edmontonpsychologist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 15 Mar 2016 04:07:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Mar 2016 02:16:28 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edmontonpsychologist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About Me]]></title>
+            <description><![CDATA[<article><h1>About Me</h1><p>I received my Masters of Science degree in Marital and Family Therapy from Loma Linda University and went on to obtain my Registered Psychologist qualification.  My work in marriage and family therapy is based on research findings that clearly indicate that individuals and their problems are best seen in context, particularly the context of the family. As such, my training in psychotherapy and family systems gears me towards bringing a family-oriented perspective to mental health care, delivered in a person-centered, safe, non-judgmental, and nurturing environment. This knowledge and approach channels my abilities into helping clients, either individuals, couples or families, resolve difficulties in a number of areas.</p></article>]]></description>
+            <link>https://thegrid.ai/edmontonpsychologist/about-me/index.html</link>
+            <guid isPermaLink="false">455a61a6-3e80-434d-aef0-db15e3e8e861</guid>
+            <pubDate>Wed, 16 Mar 2016 02:16:27 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>What is Counselling?</p>]]></description>
