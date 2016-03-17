@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[Edmonton Psychologist]]></title>
-        <description><![CDATA[Edmonton Psychologist]]></description>
+        <title><![CDATA[Siân Roberts, M.Sc. Registered Psychologist]]></title>
+        <description><![CDATA[Siân Roberts, M.Sc. Registered Psychologist]]></description>
         <link>https://thegrid.ai/edmontonpsychologist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 16 Mar 2016 02:41:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Mar 2016 00:54:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/edmontonpsychologist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Counselling Sessions]]></title>
+            <description><![CDATA[<article><h1>Counselling Sessions</h1><p>Individual Session $190/therapeutic hour</p></article>]]></description>
+            <link>https://thegrid.ai/edmontonpsychologist/registration-and-fees/index.html</link>
+            <guid isPermaLink="false">44f1346e-837c-4ff4-8b06-c04a8986865f</guid>
+            <pubDate>Thu, 17 Mar 2016 00:54:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Psychological Services]]></title>
             <description><![CDATA[<article><h1>Psychological Services</h1><p></p></article>]]></description>
