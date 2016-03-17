@@ -5,9 +5,9 @@ inNav: false
 inLanguage: null
 starred: false
 keywords: []
-description: ''
-datePublished: '2016-03-17T00:55:47.972Z'
-dateModified: '2016-03-17T00:39:13.507Z'
+description: "EMDR (Eye Movement Desensitization and Reprocessing) is a psychotherapy that enables people to heal from the symptoms and emotional distress that are the result of disturbing life experiences.\_ Repeated studies show that by using EMDR people can experience the benefits of psychotherapy that once took years to make a difference. It is widely assumed that severe emotional pain requires a long time to heal.\_ EMDR therapy shows that the mind can in fact heal from psychological trauma much as the body recovers from physical trauma.\_ When you cut your hand, your body works to close the wound.\_ If a foreign object or repeated injury irritates the wound, it festers and causes pain.\_ Once the block is removed, healing resumes.\_ EMDR therapy demonstrates that a similar sequence of events occurs with mental processes.\_ The brain’s information processing system naturally moves toward mental health.\_ If the system is blocked or imbalanced by the impact of a disturbing event, the emotional wound festers and can cause intense suffering.\_ Once the block is removed, healing resumes.\_ Using the detailed protocols and procedures learned in EMDR training sessions, clinicians help clients activate their natural healing processes."
+datePublished: '2016-03-17T16:59:06.376Z'
+dateModified: '2016-03-17T01:05:51.514Z'
 title: 'Eye Movement Desensitization &Reprocessing (EMDR)'
 author: []
 authors: []
