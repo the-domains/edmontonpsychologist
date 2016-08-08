@@ -5,14 +5,14 @@ inNav: true
 inLanguage: null
 keywords: []
 description: What is Counselling?
-datePublished: '2016-08-08T03:42:51.769Z'
-dateModified: '2016-08-08T03:42:41.092Z'
+datePublished: '2016-08-08T03:44:37.277Z'
+dateModified: '2016-08-08T03:43:02.217Z'
 title: ''
 author: []
 sourcePath: _posts/2016-03-15-what-is-counselling.md
+via: {}
 authors: []
 publisher: {}
-via: {}
 starred: false
 url: what-is-counselling/index.html
 _type: Article
